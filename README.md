@@ -1,5 +1,5 @@
 # vue-proj
-
+[http://www.caishuxiang.cn/demo/190619vueproj/#/](http://www.caishuxiang.cn/demo/190619vueproj/#/)
 ## Project setup
 ```
 npm install
